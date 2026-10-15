@@ -1,3 +1,5 @@
+> **Projeto concluído.** Esta atividade faz parte da formação em Engenharia de Qualidade de Software da EBAC e também está consolidada no repositório [exercicios-ebac](https://github.com/talytam/exercicios-ebac). Este repositório foi mantido para preservar a entrega original, o histórico e os recursos utilizados nos módulos relacionados.
+
 ﻿# Exercício Módulo 24 - Automação de API
 
 Projeto desenvolvido para o exercício do Módulo 24 do curso de Engenharia de Qualidade de Software da EBAC.
